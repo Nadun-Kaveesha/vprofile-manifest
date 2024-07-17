@@ -1,3 +1,6 @@
+appimage: nadun2005/vproappdock:latest
+
+
 # Default values for vprofilecharts.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
